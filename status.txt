@@ -1,2 +1,2 @@
-Project Status:Development
-Status:Feature One
+Project Status : Development
+Status : Feature One and Feature Two
